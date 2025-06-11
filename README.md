@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Ben. Merhaba 👋, ben Ekrem Karabıyık</h1>
-<h3 align="center">2004 İzmir doğumluyum. 2004 yılında İzmir'de doğdum.</h3>
+<h3 align="center">2004 yılında İzmir'de doğdum.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https ://github-profile-trophy.vercel.app/?username=ekremkrbyk" alt="ekremkrbyk" /></a> </p>
 
